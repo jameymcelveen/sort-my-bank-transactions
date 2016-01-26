@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/jameymcelveen/sort-my-bank-transactions/issues"
   },
-  "homepage": "https://github.com/jameymcelveen/sort-my-bank-transactions#readme"
+  "homepage": "https://github.com/jameymcelveen/sort-my-bank-transactions#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
