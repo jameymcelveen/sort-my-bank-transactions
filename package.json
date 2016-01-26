@@ -1,0 +1,25 @@
+{
+  "name": "sort-my-bank-transactions",
+  "version": "1.0.0",
+  "description": "Sort My Bank Transactions",
+  "main": "index.js",
+  "scripts": {
+    "test": "./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jameymcelveen/sort-my-bank-transactions.git"
+  },
+  "keywords": [
+    "sort",
+    "bank",
+    "transactions",
+    "transaction"
+  ],
+  "author": "Jamey McElveen <jamey@mcelveen.us>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jameymcelveen/sort-my-bank-transactions/issues"
+  },
+  "homepage": "https://github.com/jameymcelveen/sort-my-bank-transactions#readme"
+}
